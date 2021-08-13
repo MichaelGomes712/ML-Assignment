@@ -1,0 +1,4 @@
+For this project, We have decided to use a dataset to determine wheteher or not a website can be deemed a phising website. 
+The dataset can be found under the sub folder "Dataset".
+It also contains details of the featuresin the dataset.
+
